@@ -6,7 +6,7 @@
 
 <!--Wire Frame goes here-->
 
-![wireframe of game](images/screenshot.jpg)
+![wireframe of game](./images/screenshot.jpg)
 
 
 ## Technologies Used: 
@@ -15,7 +15,7 @@
 - Javascript
 
 ## Getting Started: 
--Heres a link to my game
+- Heres a link to my game
 
 ## instructions: 
 - Click the spin button to start the game.

@@ -5,7 +5,7 @@
 //Step four: create functionality for spin
 //step five: check for a match between box1 & box2
 /* 1: If match display winner
-*  2: Else if spin ask to spin again
+*  2: Else if  ask to spin again
 *
 */
 //step six: 

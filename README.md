@@ -6,7 +6,7 @@
 
 <!--Wire Frame goes here-->
 
-![wireframe of game](#)
+![wireframe of game](./images/screenshot.jpg)
 
 
 ##Technologies Used: 

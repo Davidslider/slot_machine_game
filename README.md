@@ -2,7 +2,7 @@
 
 <!-- Screenshots of final game-->
 
-![Screen of game](./images/game_screenshot.png)
+![Screen of game](./images/game_screenshot2.png)
                     
 <!--Wire Frame goes here-->
 

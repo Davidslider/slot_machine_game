@@ -2,11 +2,11 @@
 
 <!-- Screenshots of final game-->
 
-![Screen of game](./images/game_screenshot.png)
+![Screenshot of game](./images/game_screenshot2.png)
                     
 <!--Wire Frame goes here-->
 
-![screenshot of game](./images/game_screenshot.png)
+![screenshot of winning game](./images/game_screenshot.png)
 ![wireframe of game](./images/screenshot.jpg)
 
 

@@ -52,12 +52,12 @@ function displayMessage() {
 }
 
 function slot() {
-    // cell1.innerHTML = randomNum()
-    // cell2.innerHTML = randomNum()
-    // cell3.innerHTML = randomNum()
-    cell1.innerHTML = 7
-    cell2.innerHTML = 7
-    cell3.innerHTML = 7
+    cell1.innerHTML = randomNum()
+    cell2.innerHTML = randomNum()
+    cell3.innerHTML = randomNum()
+    // cell1.innerHTML = 7
+    // cell2.innerHTML = 7
+    // cell3.innerHTML = 7
     
 
     checkMatch()

@@ -2,8 +2,8 @@
 
 <!-- Screenshots of final game-->
 
-![Screen of game](#)
-
+![Screen of game](./images/game_screenshot.png)
+                    
 <!--Wire Frame goes here-->
 
 ![screenshot of game](./images/game_screenshot.png)

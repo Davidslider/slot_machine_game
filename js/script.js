@@ -52,12 +52,12 @@ function displayMessage() {
 }
 
 function slot() {
-    cell1.innerHTML = randomNum()
-    cell2.innerHTML = randomNum()
-    cell3.innerHTML = randomNum()
-    // cell1.innerHTML = 7
-    // cell2.innerHTML = 7
-    // cell3.innerHTML = 7
+    // cell1.innerHTML = randomNum()
+    // cell2.innerHTML = randomNum()
+    // cell3.innerHTML = randomNum()
+    cell1.innerHTML = 7
+    cell2.innerHTML = 7
+    cell3.innerHTML = 7
     
 
     checkMatch()
@@ -77,6 +77,10 @@ function checkMatch() {
     let val2 = cell2.innerHTML
     let val3 = cell3.innerHTML
     if (val1 === val2 && val1 === val3 && val2 === val3) {
+        // message.style = "white"
+        // for(let i of message){
+        //     i.style.color = "white"
+        // }
         message.innerHTML = "Winner!!"
         matches = matches + 1
         match.innerHTML = matches

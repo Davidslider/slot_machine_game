@@ -6,6 +6,7 @@
 
 <!--Wire Frame goes here-->
 
+![screenshot of game](./images/game_screenshot.png)
 ![wireframe of game](./images/screenshot.jpg)
 
 

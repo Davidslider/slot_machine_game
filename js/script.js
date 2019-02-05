@@ -18,7 +18,7 @@ const cell1 = document.getElementById('cell1')
 const cell2 = document.getElementById('cell2')
 const cell2 = document.getElementById('cell3')
 const message = document.getElementById('message')
-const match = document.getElementById('matches')
+const match = document.getElementById('matches') 
 
 
 /*----- event listeners -----*/

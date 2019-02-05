@@ -19,7 +19,12 @@ main {
     height: 100%;
 
     background-color: aqua;
-
+}
+header {
+    display: grid;
+    grid-template-areas: 
+    "h2 h2"
+    "h1 h1"
 }
 
 section {
@@ -79,6 +84,7 @@ h2 {
 
 p {
     margin: 0;
+    font-size: 40px;
 }
 
 h1 {
@@ -96,6 +102,8 @@ h1 {
 
 #message {
     font-size: 20px;
+    color: white;
+    fo
 }
 
 #buttons {
@@ -146,4 +154,5 @@ footer {
 
 #footer {
     padding: 30px;
+    font-size: 20px;
 }

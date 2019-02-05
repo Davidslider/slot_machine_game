@@ -11,31 +11,39 @@
 </head>
 <script defer src="./js/script.js"></script>
 
-<title>Document</title>
+<title>Slider's Slot Machine</title>
 </head>
 
 <body>
     <main>
+        <header>
 
+            <h1>Slot Machine</h1>
+            <h2>Matches: <p id='matches'></p>
+            </h2>
+            <h1 id='message'></h1>
 
-        <h1>Slot Machine</h1>
+        </header>
+            
+            
 
-        <h2>Matches: <p id='matches'></p>
-        </h2>
-
-        <h1 id='message'></h1>
         <section>
-            <div id='cell1'>7</div>
-            <div id='cell2'>7</div>
-            <div id='cell3'>7</div>
+            <div class ='spinner' id='cell1'>7</div>
+            <div class ='spinner' id='cell2'>7</div>
+            <div class ='spinner' id='cell3'>7</div>
         </section>
         <div id='buttons'>
             <button id="spin-btn">SPIN</button>
-            <!-- <button id='reset-btn'>RESET</button> -->
+            <button id='reset-btn'>RESET</button>
         </div>
 
     </main>
 </body>
 
-<footer>David Slider</footer> 
+<footer>
+    
+<p id="footer">David Slider</p>
+<p id="footer">Copyright 2019</p>
+
+</footer>
 </html>

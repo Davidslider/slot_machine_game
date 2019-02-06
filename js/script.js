@@ -33,12 +33,14 @@ resetBtn.addEventListener('click', reset)
 function winner() {
     message.style.fontSize = "400%"
     message.style.backgroundColor = "aqua"
+    message.style.color = "purple"
 
 }
 
 function tryAgain() {
     message.style.fontSize = "150%"
     message.style.backgroundColor = "grey"
+    message.style.color = "white"
 }
 
 function reset() {
@@ -86,7 +88,7 @@ function checkMatch() {
         matches = matches + 1
         match.innerHTML = matches
 
-        // button.disabled = true
+        
         for (let i of spinners) {
             i.style.backgroundColor = "purple"
             i.style.color = "white"
